@@ -1,6 +1,6 @@
 👋 Hi, I’m @Lafiasabigado
 
-👀 I’m interested in web development, including technologies like React.js, Next.js Django, and Tailwind CSS. I’m also passionate about cryptocurrency and its applications in the web development world.
+👀 I’m interested in web development, including technologies like React.js, Next.js Django, and Tailwind CSS.
 
 🌱 I’m currently learning Figma and exploring new ways to optimize web applications with cutting-edge technologies.
 
