@@ -12,3 +12,4 @@
 
 ⚡ Fun fact: I’m always trying to improve my coding skills, and I love tackling new challenges, especially those that require creative problem-solving.
 
+[![wakatime](https://wakatime.com/badge/user/74842ec5-6da6-49ca-87fe-b8e7959f5bb8.svg)](https://wakatime.com/@74842ec5-6da6-49ca-87fe-b8e7959f5bb8)
