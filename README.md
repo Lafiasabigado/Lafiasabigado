@@ -37,17 +37,7 @@ I am a passionate Web Developer focused on creating intuitive and dynamic user e
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue" />
-  <img src="https://im### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Lafiasabigado">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lafiasabigado&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Lafia's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Lafiasabigado">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafiasabigado&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" />
-  </a>
-  
-  <br/>g.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   
   <br/>
@@ -60,7 +50,8 @@ I am a passionate Web Developer focused on creating intuitive and dynamic user e
 </div>
 
 <br />
-  
+
+<div align="center">
   <a href="https://wakatime.com/@74842ec5-6da6-49ca-87fe-b8e7959f5bb8">
       <img src="https://wakatime.com/badge/user/74842ec5-6da6-49ca-87fe-b8e7959f5bb8.svg" alt="wakatime badge" />
   </a>
