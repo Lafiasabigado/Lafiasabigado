@@ -59,7 +59,7 @@
 
 <p align="center">
   <!-- Généré automatiquement par la GitHub Action (voir profile-3d-contrib.yml) -->
-  <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/Lafiasabigado/Lafiasabigado/output/github-contribution-grid-snake-dark.svg" alt="3D contribution graph" />
 </p>
 
 <br>
