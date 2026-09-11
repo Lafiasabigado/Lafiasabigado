@@ -59,7 +59,7 @@
 
 <p align="center">
   <!-- Généré automatiquement par la GitHub Action (voir profile-3d-contrib.yml) -->
-  <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-USERNAME/output/profile-3d-contrib/profile-south.svg" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-USERNAME/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 </p>
 
 <br>
