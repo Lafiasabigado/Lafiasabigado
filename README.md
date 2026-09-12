@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B2631&height=220&section=header&text=Lafia%20Sabi%20Gado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%203D%20%26%20Creative%20Coding%20Enthusiast&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hello!+I'm+Lafia+Sabi+Gado;Full+Stack+Developer;React+%26+Django+Specialist;Passionate+about+3D+%26+Creative+Dev;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hello!+I'm+Lafia+Sabi+Gado;Full+Stack+Developer;React+%26+Django+Specialist;Passionate+about+3D+%26+Creative+Dev;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
   <em>"Building scalable web applications, elegant interfaces, and exploring the 3D web."</em>
@@ -24,13 +24,32 @@
   <p>
     I am a passionate developer focused on web technologies, with a growing fascination for 3D and creative coding. My goal is to build modern, performant applications while exploring how 3D/visual experiences can enrich the web.
   </p>
-  <ul>
-    <li><strong>Current Focus:</strong> Developing projects using React.js, Next.js, and Django.</li>
-    <li><strong>Exploring:</strong> Three.js / WebGL and 3D-driven interfaces, on top of Figma for design.</li>
-    <li><strong>Collaboration:</strong> Open to contributing to Open Source projects, specifically in the React & Django ecosystems.</li>
-    <li><strong>Objective:</strong> Constantly improving my skills and tackling complex algorithmic and creative-dev challenges.</li>
-  </ul>
 </div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🎯_Current_Focus-React.js_%7C_Next.js_%7C_Django-2E86C1?style=for-the-badge&labelColor=1B2631" /><br><br>
+      <sub>Building production-ready web apps</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🧊_Exploring-Three.js_%7C_WebGL_%7C_Figma-8E44AD?style=for-the-badge&labelColor=1B2631" /><br><br>
+      <sub>Bridging engineering and 3D design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🤝_Collaboration-Open_Source_(React_%26_Django)-27AE60?style=for-the-badge&labelColor=1B2631" /><br><br>
+      <sub>Open to contributing on OSS projects</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🚀_Objective-Complex_Algo_%26_Creative_Dev-E67E22?style=for-the-badge&labelColor=1B2631" /><br><br>
+      <sub>Always leveling up</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -59,7 +78,7 @@
 
 <p align="center">
   <!-- Généré automatiquement par la GitHub Action (voir profile-3d-contrib.yml) -->
-  <img src="https://raw.githubusercontent.com/Lafiasabigado/Lafiasabigado/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-USERNAME/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 </p>
 
 <br>
