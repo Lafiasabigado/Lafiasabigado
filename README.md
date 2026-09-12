@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B2631&height=220&section=header&text=Lafia%20Sabi%20Gado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%203D%20%26%20Creative%20Coding%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://raw.githubusercontent.com/Lafiasabigado/Lafiasabigado/main/banner.svg" alt="Header banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hello!+I'm+Lafia+Sabi+Gado;Full+Stack+Developer;React+%26+Django+Specialist;Passionate+about+3D+%26+Creative+Dev;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -91,6 +91,6 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2631,100:2E86C1&height=100&section=footer" />
+<img src="https://raw.githubusercontent.com/Lafiasabigado/Lafiasabigado/main/footer.svg" alt="Footer" width="100%" />
 
 </div>
