@@ -76,10 +76,7 @@
 
 <h3>3D Contribution Graph</h3>
 
-<p align="center">
-  <!-- Généré automatiquement par la GitHub Action (voir profile-3d-contrib.yml) -->
-  <img src="https://raw.githubusercontent.com/Lafiasabigado/Lafiasabigado/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2631,100:2E86C1&height=100&section=footer" />
 
 <br>
 
